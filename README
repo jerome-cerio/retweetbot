@@ -1,0 +1,13 @@
+Jerome Cerio
+
+This program enables one's own Twitter account,
+or a twitter bot, to retweet tweets from specific accounts.
+
+In particular, this program enables my account to retweet all tweets from the accounts
+@RiceUniversity and @RiceEngineering that pertain to the keywords
+"engineering" and "computer science"
+
+To use this program in a similar way, one would need to register a
+Twitter account as a developer account, set up a project and app, and
+then generate the necessary authentication tokens:
+Client/API Key and Key Secret, Access Key and Key Secret, and Bearer Token.
